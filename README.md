@@ -105,7 +105,7 @@ Now in your `composer.json` file add:
 ```javascript
 {
     "require": {
-	"cossou/jasperphp": "dev-master",
+	"cossou/jasperphp": "dev-master"
     }
 }
 ```
